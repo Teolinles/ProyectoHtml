@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="">
+    <title>Hoja de Vida "Teolinlés Pérez"</title>
+  </head>
+  <body>
+    <header> <!-- Encabezado-->
+      <svg width="350px" height="300px" viewBox="0 0 500px 400px">
+        <image xlink:href="img/logo.svg" width="300px" height="300px" x="5" y="10" ></image>
+      </svg>
+      <h1>Hoja de Vida</h1>
+      <h2>Datos Personales:</h2>
+      <h3><em>Teolinlés Imyur Pérez Hernández</em></h3>
+      <h3>Fecha de Nacimiento:</h3> <p>01 de febrero de 1986</p>
+      <h3>Lugar de Nacimiento:</h3> <p>Valencia Edo Carabobo -Venezuela</p>
+    </header>
+    <nav> <!-- Menu -->
+      <a href="index.html">Inicio</a> |
+      <a href="educacion.html">Educación</a> |
+      <a href="experiencia.html">Experiencia</a>
+    </nav>
+
+    <section>
+      <h2>Educación</h2>
+      <article>
+        <table border="1">
+          <thead><!-- Encabezado de la tabla-->
+            <tr>
+              <th>Año</th>
+              <th>Institución</th>
+              <th>Lugar</th>
+              <th>¿Culminó?</th>
+            </tr>
+          </thead>
+          <tbody>  <!-- Cuerpo de la tabla-->
+           <tr>
+              <td>2012</td>
+              <td>UCLA</td>
+              <td>Barquisimeto - Venezuela</td>
+              <td>Si</td>
+           </tr>
+           <tr>
+              <td>2011</td>
+              <td>UCLA</td>
+              <td>Barquisimeto - Venezuela</td>
+              <td>Si</td>
+           </tr>
+           <tr>
+              <td>2003</td>
+              <td>ETC "Dr. Ambrosio Perera"</td>
+              <td>Barquisimeto - Venezuela</td>
+              <td>Si</td>
+           </tr>
+
+          </tbody>
+        </table>
+      </article>
+      <article>
+        <h3>Agregar estudios:</h3>
+        <form autocomplete="on" action="index.html" method="post">
+          <fieldset>
+            <p>
+              <strong><label for="año">Año:</label></strong>
+              <select class="" name="Año">
+                <option value="2019">2019</option>
+                <option value="2018">2018</option>
+                <option value="2017">2017</option>
+                <option value="2016">2016</option>
+                <option value="2015">2015</option>
+                <option value="2014">2014</option>
+                <option value="2013">2013</option>
+                <option value="2012">2012</option>
+                <option value="2011">2011</option>
+              </select>
+            </p>
+            <p>
+              <strong><label for="institucion">Institución:</label></strong>
+              <input type="text" name="institucion" placeholder="Ej: Colegio María Santísima" required>
+            </p>
+            <p>
+              <strong><label for="Lugar">Lugar:</label></strong>
+              <input type="text" name="Lugar" placeholder="Ej:Venezuela" required>
+            </p>
+            <p>
+              <strong><label for="Lugar">¿Culminó:?</label></strong>
+              <input type="radio" name="Culminó" value="Si">Si
+              <input type="radio" name="Culminó" value="No">No
+            </p>
+            <p>
+              <strong><input type="submit" name="Enviar" value="Enviar"></strong>
+            </p>
+          </fieldset>
+        </form>
+      </article>
+    </section>
+    <footer>
+      <p><strong><em>CONTACTAME</em></strong></p>
+      <a href="mailto:teolinlesph@gmail.com"><img src="img/gmail.png" alt="45" width="45"></a>
+      <a href="https://www.facebook.com/teolinles.perez"target="_blank"><img src="img/face.png" alt="45" width="45"></a>
+      <a href="https://www.instagram.com/teolinles/?hl=es-la"target="_blank"><img src="img/instagram.png" alt="45" width="45"></a>
+      <a href="https://api.whatsapp.com/send?phone=51929067138"target="_blank"><img src="img/WhatsApp.png" alt="50" width="50"></a>
+
+    </footer>
+  </body>
+</html>

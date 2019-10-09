@@ -1,0 +1,24 @@
+<svg width="115" height="121" xmlns="http://www.w3.org/2000/svg">
+ <title/>
+ <defs>
+  <linearGradient spreadMethod="pad" y2="0" x2="1" y1="0" x1="0" id="svg_12">
+   <stop offset="0" stop-color="#0bbc99"/>
+   <stop offset="1" stop-color="#f44366"/>
+  </linearGradient>
+  <linearGradient y2="1" x2="1" y1="0" x1="0" id="svg_14">
+   <stop offset="0.289063" stop-color="#ff007f"/>
+   <stop offset="0.9375" stop-color="#00ff80"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="123" width="117" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke="null" fill="url(#svg_12)" id="svg_3" d="m57.009346,5.53271c-24.3,0 -44,19.7 -44,44s19.7,44 44,44s44,-19.7 44,-44s-19.7,-44 -44,-44zm25,54.5l0,14.5l-14.5,0l-10.5,10.5l-10.5,-10.5l-14.5,0l0,-14.5l-10.5,-10.5l10.5,-10.5l0,-14.5l14.5,0l10.5,-10.5l10.5,10.5l14.5,0l0,14.5l10.5,10.5l-10.5,10.5z" class="st1"/>
+  <polygon stroke="null" fill="url(#svg_14)" id="svg_4" points="77.00927962362766,57.83271026611328 85.30928267538548,49.532711029052734 77.00927962362766,41.23271179199219 77.00927962362766,29.5327091217041 65.30937422811985,29.5327091217041 57.009390249848366,21.232709884643555 48.70939101278782,29.5327091217041 37.0093749910593,29.5327091217041 37.0093749910593,41.23271179199219 28.709335699677467,49.532711029052734 37.0093749910593,57.83271026611328 37.0093749910593,69.53270721435547 48.70939101278782,69.53270721435547 57.009390249848366,77.83271026611328 65.30937422811985,69.53270721435547 77.00927962362766,69.53270721435547 " class="st2"/>
+  <text font-weight="bold" stroke="null" transform="matrix(0.7847951054573059,0,0,0.7339275479316711,7.3136038379743695,6.115509015507996) " xml:space="preserve" text-anchor="start" font-family="Euphoria, sans-serif" font-size="52" id="svg_15" y="74.924299" x="48.583336" stroke-opacity="null" stroke-width="0" fill="#fcfcfc">T</text>
+  <text font-style="normal" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="Euphoria, sans-serif" font-size="18" id="svg_16" y="106.396612" x="14.392525" stroke-opacity="null" stroke-width="0" stroke="null" fill="#088e83">Teolinlés Pérez</text>
+ </g>
+</svg>

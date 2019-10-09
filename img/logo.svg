@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<svg width="500" height="502" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <title/>
+ <defs>
+  <linearGradient id="svg_12" spreadMethod="pad" x1="0" x2="1" y1="0" y2="0">
+   <stop offset="0" stop-color="#0bbc99"/>
+   <stop offset="1" stop-color="#f44366"/>
+  </linearGradient>
+  <linearGradient id="svg_14" x1="0" x2="1" y1="0" y2="1">
+   <stop offset="0.289063" stop-color="#ff007f"/>
+   <stop offset="0.9375" stop-color="#00ff80"/>
+  </linearGradient>
+ </defs>
+ <g class="layer">
+  <title>background</title>
+  <rect fill="none" height="504" id="canvas_background" width="502" x="-1" y="-1"/>
+ </g>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <path class="st1" d="m247.702698,32.276264c-103.834728,0 -188.013499,75.447271 -188.013499,168.511671s84.178771,168.511671 188.013499,168.511671s188.013499,-75.447271 188.013499,-168.511671s-84.178771,-168.511671 -188.013499,-168.511671zm106.825852,208.724683l0,55.532255l-61.958994,0l-44.866858,40.213012l-44.866858,-40.213012l-61.958994,0l0,-55.532255l-44.866858,-40.213012l44.866858,-40.213012l0,-55.532255l61.958994,0l44.866858,-40.213012l44.866858,40.213012l61.958994,0l0,55.532255l44.866858,40.213012l-44.866858,40.213012z" fill="url(#svg_12)" id="svg_3" stroke="null"/>
+   <polygon class="st2" fill="url(#svg_14)" id="svg_4" points="341.2077829837799,236.30526733398438 380.0124399662018,202.0469970703125 341.2077829837799,167.78875732421875 341.2077829837799,119.4969711303711 286.5077097415924,119.4969711303711 247.70312905311584,85.23872375488281 208.89844155311584,119.4969711303711 154.19780373573303,119.4969711303711 154.19780373573303,167.78875732421875 115.39299416542053,202.0469970703125 154.19780373573303,236.30526733398438 154.19780373573303,284.5970458984375 208.89844155311584,284.5970458984375 247.70312905311584,318.85528564453125 286.5077097415924,284.5970458984375 341.2077829837799,284.5970458984375 " stroke="null"/>
+   <text fill="#fcfcfc" font-family="Edwardian Script ITC" font-size="57" font-weight="bold" id="svg_15" stroke="null" stroke-width="0" text-anchor="start" transform="matrix(1.61655 0 0 2.35876 -279.381 -213.01)" x="289.967079" xml:space="preserve" y="195.865634">T</text>
+   <text fill="#088e83" font-family="Edwardian Script ITC" font-size="18" font-style="normal" font-weight="bold" id="svg_16" stroke="null" stroke-width="0" text-anchor="start" transform="matrix(4.67329 0 0 5.17628 -866.73 -1551.1)" x="194.843702" xml:space="preserve" y="384.877353">Teolinlés Pérez</text>
+  </g>
+ </g>
+</svg>
